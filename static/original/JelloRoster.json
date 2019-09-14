@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Kevin Robbins",
+        "female": false,
+        "power": 10,
+        "technique": 1,
+        "speed": 4
+    },
+    {
+        "name": "Jeff Craft",
+        "female": false,
+        "power": 5,
+        "technique": 3,
+        "speed": 5
+    },
+    {
+        "name": "John Casey",
+        "female": false,
+        "power": 3,
+        "technique": 5,
+        "speed": 10
+    },
+    {
+        "name": "April Rheaume",
+        "female": true,
+        "power": 2,
+        "technique": 9,
+        "speed": 5
+    },
+    {
+        "name": "Kikumi Ono-Moore",
+        "female": true,
+        "power": 4,
+        "technique": 9,
+        "speed": 8
+    },
+    {
+        "name": "Steven Steck",
+        "female": false,
+        "power": 2,
+        "technique": 4,
+        "speed": 10
+    },
+    {
+        "name": "Michael Franks",
+        "female": false,
+        "power": 3,
+        "technique": 7,
+        "speed": 7
+    },
+    {
+        "name": "Heather Franks",
+        "female": true,
+        "power": 3,
+        "technique": 3,
+        "speed": 1
+    },
+    {
+        "name": "Jason George",
+        "female": false,
+        "power": 2,
+        "technique": 9,
+        "speed": 5
+    },
+    {
+        "name": "Jennifer George",
+        "female": true,
+        "power": 6,
+        "technique": 10,
+        "speed": 3
+    },
+    {
+        "name": "Jhanalyn Blount",
+        "female": true,
+        "power": 10,
+        "technique": 5,
+        "speed": 1
+    },
+    {
+        "name": "Kevin Dorobek",
+        "female": false,
+        "power": 6,
+        "technique": 1,
+        "speed": 4
+    },
+    {
+        "name": "Adam Robnett",
+        "female": false,
+        "power": 4,
+        "technique": 5,
+        "speed": 2
+    },
+    {
+        "name": "Hana Marie Hays",
+        "female": true,
+        "power": 6,
+        "technique": 3,
+        "speed": 9
+    },
+    {
+        "name": "Dawn Tygart-Mcvey",
+        "female": true,
+        "power": 7,
+        "technique": 7,
+        "speed": 9
+    },
+    {
+        "name": "Zach Heaton",
+        "female": false,
+        "power": 10,
+        "technique": 2,
+        "speed": 9
+    },
+    {
+        "name": "Whit Cox",
+        "female": false,
+        "power": 1,
+        "technique": 4,
+        "speed": 9
+    }
+]
