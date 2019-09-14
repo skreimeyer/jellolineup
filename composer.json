@@ -1,0 +1,14 @@
+{
+    "name": "skreimeyer/lineup",
+    "description": "a kickball lineup generator",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "skreimeyer",
+            "email": "samuel.kreimeyer@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
